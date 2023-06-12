@@ -17,3 +17,5 @@ Get in touch on <a href="https://www.linkedin.com/in/eirin-rydland-944b49210/">L
 
 
 I´m currently working on a couple of smaller projects. One of them is with communications agency <a href="https://ystory.no/" >Y-Story</a> and another is a website for a take-away restaurant that my friend own. Also looking forward to learning more on my second year at Noroff School of Technology and Digital Media.
+
+### Have a nice day!
