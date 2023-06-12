@@ -1,30 +1,18 @@
-### Hi there 👋
+### Nice to see you 👋
 
-<!--
+```yaml
+About me
 name: Eirin Rydland
 located_in: Bergen, Norway
-from: Haugesund (Norway)
-studies: Frontend development, Noroff Bergen
+from: Haugesund, Norway
+studies: Frontend development, School of Technology and Digital Media (campus Bergen)
 job: Sales and Customer Advisor, Synsam Bergen Torgallmenningen (part-time)
+hobbies: ["Volleyball", "Cooking"]
+```
 
-past experiences: 
-  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - []
-  - []
+I´m currently working on a couple of smaller projects. One of them is with communications agency <a href="https://ystory.no/" >Y-Story</a> and another is a website for a take-away restaurant that my friend own. Also looking forward to learning more on my second year at Noroff School of Technology and Digital Media.
 
-hobbies: ["Volleyball", "Cinema", "Cooking"]
+Get in touch on <a href="https://www.linkedin.com/in/eirin-rydland-944b49210/">LinedIn</a> or send me an <a href="mailto:rydlande@hotmail.com">E-Mail</a>
 
-**rydlande/rydlande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rydlande&theme=tokyonight&show_icons=true)
