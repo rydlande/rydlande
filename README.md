@@ -3,11 +3,11 @@
 ```yaml
 About me
 name: Eirin Rydland
-located_in: Bergen, Norway
+located_in: Haugesund, Norway
 from: Haugesund, Norway
-studies: Frontend development, School of Technology and Digital Media (campus Bergen)
-job: Sales and Customer Advisor, Synsam Bergen Torgallmenningen (part-time)
-hobbies: ["Volleyball", "Cooking"]
+studies: Frontend development, at Noroff Bergen
+job: Softwware Developer, at Cegal AS
+hobbies: ["Volleyball", "Cooking", "Crochet"]
 ```
 
 Get in touch on <a href="https://www.linkedin.com/in/eirin-rydland-944b49210/">LinedIn</a> or send me an <a href="mailto:rydlande@hotmail.com">E-Mail</a>
@@ -16,6 +16,5 @@ Get in touch on <a href="https://www.linkedin.com/in/eirin-rydland-944b49210/">L
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rydlande&theme=tokyonight&show_icons=true)
 
 
-I´m currently working on a couple of smaller projects. One of them is with communications agency <a href="https://ystory.no/" >Y-Story</a> and another is a website for a take-away restaurant that my friend own. Also looking forward to learning more on my second year at Noroff School of Technology and Digital Media.
 
 ### Have a nice day!
