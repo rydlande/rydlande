@@ -6,7 +6,7 @@ name: Eirin Rydland
 located_in: Haugesund, Norway
 from: Haugesund, Norway
 studies: Frontend development, at Noroff Bergen
-job: Softwware Developer, at Cegal AS
+job: Software Developer, at Cegal AS
 hobbies: ["Volleyball", "Cooking", "Crochet"]
 ```
 
