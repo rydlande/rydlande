@@ -13,8 +13,6 @@ hobbies: ["Volleyball", "Cooking", "Crochet"]
 Get in touch on <a href="https://www.linkedin.com/in/eirin-rydland-944b49210/">LinedIn</a> or send me an <a href="mailto:rydlande@hotmail.com">E-Mail</a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rydlande&theme=tokyonight&show_icons=true)
-
 
 
 ### Have a nice day!
